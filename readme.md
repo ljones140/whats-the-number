@@ -16,4 +16,4 @@ As before:
 + Push to your remote
 + Submit a pull request
 
-![Numbers](numbers.jpeg)
+![Numbers](images.jpeg)
