@@ -1,4 +1,4 @@
-# 2nd Round: Whats the number?
+# 3rd Round: Whats the number?
 
 A Prime Number can be divided evenly only by 1, or itself, and it must be a whole number greater than 1.
 
